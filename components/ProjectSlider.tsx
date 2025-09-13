@@ -7,25 +7,25 @@ const projectsData: Project[] = [
     id: 1,
     title: 'CRM – For Avocat',
     description: 'Developed a full CRM for a law firm using React / Next.js and Supabase, including client, business, and invoice management, Google Apps integration, authentication, and an analytics dashboard.',
-    imageUrl: '/assets/project1.png', // Example path
+    imageUrl: '/project1.png', // Example path
   },
   {
     id: 2,
     title: 'Shopify Theme Customization',
     description: 'Customized Shopify Liquid themes to improve site navigation, implement mega menus, and enhance user experience on e-commerce stores.',
-    imageUrl: '/assets/project2.png', // Example path
+    imageUrl: '/project2.png', // Example path
   },
   {
     id: 3,
     title: 'Web Builders (Dopweb & Bubble)',
     description: 'Built a web app builder with React / Next.js and Supabase, enabling users to create dashboards, manage data, and deploy apps without coding.',
-    imageUrl: '/assets/project3.png', // Example path
+    imageUrl: '/project3.png', // Example path
   },
   {
     id: 4,
     title: 'Landing Pages',
     description: 'Designed and deployed responsive landing pages with modern UI/UX, optimized for conversion and performance using React / Next.js.',
-    imageUrl: '/assets/project4.png', // Example path
+    imageUrl: '/project4.png', // Example path
   },
 ];
 
