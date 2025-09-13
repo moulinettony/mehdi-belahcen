@@ -59,7 +59,7 @@ const App: React.FC = () => {
           <div className="container mx-auto px-6 flex flex-col md:flex-row items-center justify-center gap-12 text-center md:text-left">
             <div className="md:w-2/5 flex justify-center">
               <img 
-                src="/assets/profile.jpg"
+                src="/public/Mehdibelahcen.png"
                 alt="Profile picture of Mehdi Belahcen" 
                 className="rounded-full w-64 h-64 md:w-80 md:h-80 object-cover border-4 border-purple-600 shadow-lg"
               />
