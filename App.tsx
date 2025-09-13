@@ -61,7 +61,7 @@ const App: React.FC = () => {
               <img 
                 src="/Mehdibelahcen.png"
                 alt="Profile picture of Mehdi Belahcen" 
-                className="rounded-full w-64 h-64 md:w-80 md:h-80 object-bottom border-4 border-purple-600 shadow-lg"
+                className="rounded-full w-64 h-64 md:w-80 md:h-80 object-top object-cover border-4 border-purple-600 shadow-lg"
               />
             </div>
             <div className="md:w-3/5">
